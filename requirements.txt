@@ -6,3 +6,4 @@ gunicorn==19.8.1
 psycopg2-binary
 pytz==2018.5
 sqlparse==0.2.4
+whitenoise
